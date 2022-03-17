@@ -1,0 +1,11 @@
+/* Resetando a margem e espaçamento intero padrão.*/
+/* box-sizing: border-box;toda a margem e espaçamento interno de um elemento ficaram contidos na largura e altura desse elemento*/
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
